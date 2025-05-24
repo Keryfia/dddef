@@ -10,7 +10,7 @@ import time
 import html
 from urllib.parse import urljoin
 
-MFPLINK = "https://keryfia-memme.hf.space"
+MFPLINK = "http://192.168.0.241:8888"
 MFPPSW = "123"
 
 # Funzioni dal tuo mpd_decoder.py
