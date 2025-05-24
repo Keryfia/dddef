@@ -5,7 +5,7 @@ import os
 
 USREPG = "Keryfia"
 BRANCHEPG = "dddef"
-MFPLINK = "https://keryfia-viennari.hf.space"     # non mettere lo / finale al link
+MFPLINK = "https://keryfia-memme.hf.space"     # non mettere lo / finale al link
 MFPPSW = "123"
 
 
