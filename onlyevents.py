@@ -9,7 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-PRXLINK = "" # non mettere lo / finale
+PRXLINK = "https://keryfia-zuzum.hf.space" # non mettere lo / finale
 
 # Costanti
 NUM_CHANNELS = 10000
